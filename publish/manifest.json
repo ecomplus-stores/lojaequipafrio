@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5a6ee7bcf7f3a171b4374c71b4f54351.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6a0f22adc211400db65726c9d2de27f5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8c3bd76b4c59d448583b8acf322358d1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.912a5a8f5d7d7c60033cfdc8da747da2.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.56c08aa7fad7f6fddadd28d731b325b9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "EQUIPAFRIO BALCOES E EXPOSITORES",
+  "short_name": "lojaequipafrio",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lojaequipafrio",
+  "background_color": "#ffffff",
+  "theme_color": "#013383"
+}
