@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "<meta name=\"google-site-verification\" content=\"fyy59Z7XCY2lBUmhM-ysRSxUlAkkjJf1hWPptLyXvTU\" />",
+  "html_head": "<meta name=\"google-site-verification\" content=\"fyy59Z7XCY2lBUmhM-ysRSxUlAkkjJf1hWPptLyXvTU\" />\n<!-- Event snippet for Compra - Equipafrio conversion page -->\n<script>\n  gtag('event', 'conversion', {\n      'send_to': 'AW-10894255971/EMe3CICPkZsYEOPO5Moo',\n      'value': 397.0,\n      'currency': 'BRL',\n      'transaction_id': ''\n  });\n</script>\n",
   "html_body": "<a href=\"https://wa.me/5521972642175?text=\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
